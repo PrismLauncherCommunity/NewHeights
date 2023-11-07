@@ -1,0 +1,11 @@
+{
+    "description": " ",
+    "icon": "minecraft:stick",
+    "impact": 0,
+    "name": "Taller",
+    "order": 0,
+    "powers": [
+        "newheights:taller",
+        "newheights:motion_average"
+    ]
+}

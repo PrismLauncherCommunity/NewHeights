@@ -1,0 +1,18 @@
+{
+    "description": "Jump height 1.1 Blocks\nWalk speed 3.9 B/s\nSprint speed 5.0 B/s",
+    "entity_action_chosen": {
+        "actions": [
+            {
+                "command": "scale set pehkui:motion 0.9 @s",
+                "type": "origins:execute_command"
+            },
+            {
+                "command": "scale persist set true @s",
+                "type": "origins:execute_command"
+            }
+        ],
+        "type": "origins:and"
+    },
+    "name": "Slower Motion (90%)",
+    "type": "origins:action_on_callback"
+}

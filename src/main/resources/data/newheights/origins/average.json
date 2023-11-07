@@ -1,0 +1,11 @@
+{
+    "description": " ",
+    "icon": "minecraft:potion",
+    "impact": 0,
+    "name": "Average",
+    "order": 0,
+    "powers": [
+        "newheights:average",
+        "newheights:motion_average"
+    ]
+}

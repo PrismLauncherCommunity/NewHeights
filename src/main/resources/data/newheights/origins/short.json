@@ -1,0 +1,11 @@
+{
+    "description": " ",
+    "icon": "minecraft:melon_slice",
+    "impact": 0,
+    "name": "Short",
+    "order": 0,
+    "powers": [
+        "newheights:short",
+        "newheights:motion_average"
+    ]
+}

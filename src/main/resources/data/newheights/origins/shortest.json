@@ -1,0 +1,11 @@
+{
+    "description": "Smol",
+    "icon": "minecraft:red_mushroom",
+    "impact": 0,
+    "name": "Shortest",
+    "order": 0,
+    "powers": [
+        "newheights:shortest",
+        "newheights:motion_slowest"
+    ]
+}

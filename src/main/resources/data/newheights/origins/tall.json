@@ -1,0 +1,11 @@
+{
+    "description": " ",
+    "icon": "minecraft:tall_grass",
+    "impact": 0,
+    "name": "Tall",
+    "order": 0,
+    "powers": [
+        "newheights:tall",
+        "newheights:motion_average"
+    ]
+}

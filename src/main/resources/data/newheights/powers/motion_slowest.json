@@ -1,0 +1,18 @@
+{
+    "description": "Cant use stairs\nJump height 1.0 Blocks\nWalk speed 3.5 B/s\nSprint speed 4.5 B/s",
+    "entity_action_chosen": {
+        "actions": [
+            {
+                "command": "scale set pehkui:motion 0.8 @s",
+                "type": "origins:execute_command"
+            },
+            {
+                "command": "scale persist set true @s",
+                "type": "origins:execute_command"
+            }
+        ],
+        "type": "origins:and"
+    },
+    "name": "Lil' Legs (80%)",
+    "type": "origins:action_on_callback"
+}

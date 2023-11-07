@@ -1,0 +1,11 @@
+{
+    "description": "",
+    "icon": "minecraft:cookie",
+    "impact": 0,
+    "name": "Shorter",
+    "order": 0,
+    "powers": [
+        "newheights:shorter",
+        "newheights:motion_average"
+    ]
+}

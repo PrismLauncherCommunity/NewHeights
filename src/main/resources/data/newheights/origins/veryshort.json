@@ -1,0 +1,11 @@
+{
+    "description": " ",
+    "icon": "minecraft:dandelion",
+    "impact": 0,
+    "name": "Very Short",
+    "order": 0,
+    "powers": [
+        "newheights:veryshort",
+        "newheights:motion_slower"
+    ]
+}

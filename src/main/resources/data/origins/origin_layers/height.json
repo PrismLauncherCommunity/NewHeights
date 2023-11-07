@@ -1,0 +1,16 @@
+{
+	"name": "Height",
+	"order": 20,
+	"origins": [
+		"newheights:unaffected",
+		"newheights:average",
+		"newheights:tall",
+		"newheights:taller",
+		"newheights:verytall",
+		"newheights:tallest",
+		"newheights:shortest",
+		"newheights:veryshort",
+		"newheights:shorter",
+		"newheights:short"
+	]
+}

@@ -1,0 +1,11 @@
+{
+    "description": "Currently -40°",
+    "icon": "minecraft:oak_sapling",
+    "impact": 0,
+    "name": "Very Tall",
+    "order": 0,
+    "powers": [
+        "newheights:verytall",
+        "newheights:motion_faster"
+    ]
+}

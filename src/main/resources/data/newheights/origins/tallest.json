@@ -1,0 +1,11 @@
+{
+    "description": "are you an enderman?",
+    "icon": "minecraft:ender_pearl",
+    "impact": 0,
+    "name": "Tallest",
+    "order": 0,
+    "powers": [
+        "newheights:tallest",
+        "newheights:motion_fastest"
+    ]
+}
